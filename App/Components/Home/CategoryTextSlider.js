@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
   },
   categoryText: {
     fontWeight: "bold",
-    fontSize:17,
+    fontSize: 17,
   },
   selectedCategory: {
     backgroundColor: "lightgray",
@@ -91,4 +91,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default CategoryTextSlider;
+export default CategoryTextSlider; //  sddsddsada
